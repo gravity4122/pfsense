@@ -2,7 +2,7 @@
 _notes/
 /tmp/
 /logs/
-/build.conf
+# /build.conf
 .vscode/
 # Ignore Vim swap files
 .*.swp
